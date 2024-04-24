@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: uditdevadiga/hello:1.0
+        image: uditdevadiga/hello:1.1

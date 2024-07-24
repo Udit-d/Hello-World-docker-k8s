@@ -1,3 +1,4 @@
 FROM nginix
 COPY index.html /usr/share/nginx/html/index.html
+COPY 
 EXPOSE 80
